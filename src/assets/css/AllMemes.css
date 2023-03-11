@@ -1,0 +1,12 @@
+.img-wrapper-memes {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.img-wrapper-memes>div {
+	flex: 0 1 30%;
+	margin-right: 30px;
+	min-width: 300px
+}

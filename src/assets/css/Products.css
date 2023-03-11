@@ -1,0 +1,26 @@
+.productsContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.productsText {
+	font-size: 18px;
+	color: black;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.productsImg {
+	align-self: center;
+	background-color: black;
+	width: 300px;
+	height: 300px;
+}
+
+.productsDesc {
+	font-size: 14px;
+	color: black;
+	margin-top: 20px;
+}
